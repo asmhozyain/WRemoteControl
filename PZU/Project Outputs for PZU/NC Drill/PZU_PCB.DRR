@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PZU_PCB.PcbDoc   06.07.2023  10:56:20
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PZU_PCB.TXT
+ASCII RectHoles File : PZU_PCB-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.6mm (24mil)                                             Round             3         PTH        18.89mm (0.74inch)
+T2      0.8mm (31mil)                                             Rectangle         3         PTH        32.81mm (1.29inch)
+T3      0.9mm (35mil)                                             Round             3         PTH        2.54mm (0.10inch)
+T4      1mm (39mil)                                               Round             2         PTH        3.50mm (0.14inch)
+T5      1.1mm (43mil)                                             Round             3         PTH        5.08mm (0.20inch)
+T6      1.5mm (59mil)                                             Round             4         PTH        81.60mm (3.21inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              18
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PZU_PCB.PcbDoc]
+   Generated File[PZU_PCB.TXT]
+   Generated File[PZU_PCB-RectHoles.TXT]
+   Generated File[PZU_PCB.LDP]
+   Generated File[PZU_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:56:20 On 06.07.2023
