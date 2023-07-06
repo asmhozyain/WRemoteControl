@@ -1,6 +1,6 @@
 
 # WRemoteControl
-Wireless Remote Control with wireless charger. Created with NRF24L01 and STM8L. Mifa created in Ansys HFSS (2.5 GHz)
+Prototype of Wireless Remote Control (v1.0) with wireless charger. Created with NRF24L01 and STM8L. Mifa created in Ansys HFSS (2.5 GHz)
 
 ![PPDU_3d](https://github.com/asmhozyain/WRemoteControl/assets/78702486/beebfb69-18a6-4e55-9275-0f726159cb17)
 ![PPDU_3d_1](https://github.com/asmhozyain/WRemoteControl/assets/78702486/eb2cc6b5-1bae-4a7e-87e0-4e843ea55fd3)
